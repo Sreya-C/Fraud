@@ -3,3 +3,5 @@ https://www.kaggle.com/code/eryash15/financial-fraud-detection-using-pyspark-mll
 https://github.com/tankwin08/PySpark_Fraud_detection_ML/blob/master/pyspark_RF_fraud_detection.ipynb
 
 https://www.kaggle.com/datasets/ealaxi/paysim1
+
+SparkContext.setSystemProperty('spark.executor.memory', '4g')
